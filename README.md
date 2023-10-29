@@ -28,5 +28,3 @@ Download the installer for your operating system below. You can check [this page
 
 [![Windows Installer][windows-badge]][windows-link]
 # DOWNLOAD NOT AVAILABLE YET!!!
-[windows-link]: 
-[windows-badge]: https://img.shields.io/badge/Windows%20(7+)-3a71c1?logo=Windows&logoColor=3a71c1&labelColor=0c0d10&color=3a71c1&style=for-the-badge
