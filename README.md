@@ -26,5 +26,4 @@ Rope swinger is an fast parkour pace game.
 
 Download the installer for your operating system below. You can check [this page]() for a more detailed guide.
 
-[![Windows Installer][windows-badge]][windows-link]
 # DOWNLOAD NOT AVAILABLE YET!!!
